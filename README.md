@@ -25,6 +25,7 @@ cd Drone-vision
 sudo python3 setup.py install
 ```
 5) Download the model weights using the link bellow:
+
 https://1drv.ms/u/s!Ak6GIRUl_qLk0S3XNtwvErSmPyoC?e=MeFr1g
 
 6) Place the downloaded weights in the tasks/human_pose directory
