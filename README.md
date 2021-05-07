@@ -5,8 +5,6 @@ Follow the instructions below if you want to try it on your system:
 
 1) Install PyTorch and Torchvision
 
-https://1drv.ms/u/s!Ak6GIRUl_qLk0S3XNtwvErSmPyoC?e=MeFr1g
-
 2) 
 ```shell
 git clone https://github.com/NVIDIA-AI-IOT/torch2trt
@@ -27,7 +25,7 @@ cd Drone-vision
 sudo python3 setup.py install
 ```
 5) Download the model weights using the link bellow:
-**LINK**
+https://1drv.ms/u/s!Ak6GIRUl_qLk0S3XNtwvErSmPyoC?e=MeFr1g
 
 6) Place the downloaded weights in the tasks/human_pose directory
 
