@@ -5,6 +5,8 @@ Follow the instructions below if you want to try it on your system:
 
 1) Install PyTorch and Torchvision
 
+https://1drv.ms/u/s!Ak6GIRUl_qLk0S3XNtwvErSmPyoC?e=MeFr1g
+
 2) 
 ```shell
 git clone https://github.com/NVIDIA-AI-IOT/torch2trt
