@@ -33,7 +33,5 @@ sudo python3 setup.py install
 7) Open tasks/human_pose/live_demo.ipynb in jupiter and run the code
 
             for first time running uncoment:
-            
-                  model_trt = torch2trt.torch2trt(model, [data], fp16_mode=True, max_workspace_size=1<<25)
-                  
+                  model_trt = torch2trt.torch2trt(model, [data], fp16_mode=True, max_workspace_size=1<<25) 
             to build system optemized model
