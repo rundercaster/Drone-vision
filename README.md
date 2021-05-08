@@ -34,4 +34,4 @@ sudo python3 setup.py install
 
             for first time running uncoment:
                   model_trt = torch2trt.torch2trt(model, [data], fp16_mode=True, max_workspace_size=1<<25) 
-            to build system optemized model
+            to generates an optimized TensorRT engine (system based optimization)
