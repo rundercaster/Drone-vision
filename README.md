@@ -31,7 +31,10 @@ sudo python3 setup.py install
 6) Place the downloaded weights in the tasks/human_pose directory
 
 7) Open tasks/human_pose/live_demo.ipynb in jupiter and run the code
+      [live_demo.ipynb](https://github.com/Rundercaster/Drone-vision/blob/main/tasks/human_pose/live_demo.ipynb)
 
             for first time running uncoment:
                   model_trt = torch2trt.torch2trt(model, [data], fp16_mode=True, max_workspace_size=1<<25) 
             to generates an optimized TensorRT engine (system based optimization)
+            
+        
