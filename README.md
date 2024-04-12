@@ -37,4 +37,6 @@ sudo python3 setup.py install
                   model_trt = torch2trt.torch2trt(model, [data], fp16_mode=True, max_workspace_size=1<<25) 
             to generates an optimized TensorRT engine (system based optimization)
             
+
+https://1drv.ms/b/s!Ak6GIRUl_qLk0WsWPKyvK7GVYnQJ?e=0ByXf9
         
